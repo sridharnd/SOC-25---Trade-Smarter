@@ -59,8 +59,4 @@ This repository contains my work, learnings, and assignments completed during th
 
 ---
 
-##  Final Project
--  Final project deadline extended by 1 week
--  Focus: Integration of Technical + ML concepts
-
 Stay tuned!
